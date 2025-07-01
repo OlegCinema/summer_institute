@@ -13,4 +13,3 @@ Most POS terminals accept contactless or mag-stripe Visa/Mastercard/UnionPay car
 ## How to top-up Alipay without a foreign bank card
 
 Alipay can be used in two ways: (1) by linking an unsanctioned Visa, Mastercard or UnionPay card, or (2) by loading funds into the wallet balance. If you are travelling from Russia and do not have an eligible foreign card, focus on the balance top-up route. The practical methods change frequently (third-party exchangers, P2P transfers from contacts in China, cash deposits via partners, etc), so check the latest [step-by-step](https://dtf.ru/howto/3446118-kak-popolnit-alipay-iz-rossii-v-2025-godu-nadezhnye-sposoby-i-detalnaya-instrukciya) guide *(in Russian)* before you fly. 
-
