@@ -15,3 +15,4 @@ China’s primary messaging platform is **WeChat**, which works much like Telegr
 - [Transfer](transfer.md)
 - [Weather](weather.md)
 - [Food](food.md)
+- [Internet/VPN](internet.md)
