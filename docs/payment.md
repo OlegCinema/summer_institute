@@ -8,7 +8,7 @@ Alipay and WeChat Pay are full "super-apps": besides payments and messaging they
 
 Most POS terminals accept contactless or mag-stripe Visa/Mastercard/UnionPay cards issued outside Russia. Russian cards often fail: Gazprombank’s UnionPay cards stopped working in 2024, and Rosselkhozbank cards function only sporadically and with limits. Hotels, metro ticket machines, chain stores and hospitals usually take foreign cards, but small vendors may show only a UnionPay QR, carry at least one wallet app or some cash for those cases.
 
-![Screenshot from Alipay app](images/alipay.webp)
+<img src="images/alipay.webp" alt="Screenshot from Alipay app" width="300">
 
 ## How to top-up Alipay without a foreign bank card
 
