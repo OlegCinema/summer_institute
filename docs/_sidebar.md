@@ -2,6 +2,7 @@
 - [Transfer](transfer.md)
 - [Weather](weather.md)
 - [Food](food.md)
+- [Internet](internet.md)
 
 <!-- 
 **CONTACT INFO**  
