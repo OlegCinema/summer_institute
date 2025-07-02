@@ -1,7 +1,5 @@
 # Transfer to the hotel
 
-> Passengers on Aeroflot SU208 or China Eastern MU6019 arriving on 6 July: a dedicated shuttle to Hilton Garden Inn Shanghai Caoyang will be provided by the Chinese organisers. 
-
 ## Taxi
 Taxis in China are generally cheaper than in Russia, but you need Alipay with the DiDi mini-service (China’s Uber/Yandex Go) and either wallet funds or a linked, unsanctioned Visa/Mastercard/UnionPay card.
 
