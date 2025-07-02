@@ -15,12 +15,20 @@ China’s primary messaging platform is **WeChat**, which works much like Telegr
 Our Summer Institute will take place at **3663 Zhongshan North Road, Putuo District, Shanghai 200062, China** (Chinese: **上海市普陀区中山北路 3663 号**).
 
 <details>
-  <summary>📷 See map/scheme</summary>
-
-  <!-- внутри можно использовать обычный Markdown -->
-  ![Описание картинки](images/mapjpg)
-
+  <summary>📷 The location on the map</summary>
+  ![Location on the map](images/map3.jpg)
 </details>
+
+<details>
+  <summary>📷 Scheme of the campus</summary>
+  ![Map of the campus](images/map.jpg)
+</details>
+
+<details>
+  <summary>📷 Departments and their locations</summary>
+  ![Departments in the campus](images/map2.jpg)
+</details>
+
 
 ## Additional information
 - [Payment](payment.md)
