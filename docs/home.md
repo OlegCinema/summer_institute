@@ -16,16 +16,19 @@ Our Summer Institute will take place at **3663 Zhongshan North Road, Putuo Distr
 
 <details>
   <summary>📷 The location on the map</summary>
+
   ![Location on the map](images/map3.jpg)
 </details>
 
 <details>
   <summary>📷 Scheme of the campus</summary>
+
   ![Map of the campus](images/map.jpg)
 </details>
 
 <details>
   <summary>📷 Departments and their locations</summary>
+  
   ![Departments in the campus](images/map2.jpg)
 </details>
 
